@@ -9,7 +9,7 @@ criaCartao(
     
     
         'Geografia',
-        'Quantos continentes existem no mudo?',
+        'Quantos continentes existem no mundo?',
         'Seis'
     
     )
